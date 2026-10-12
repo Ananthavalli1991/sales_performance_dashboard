@@ -48,9 +48,10 @@ These findings are based on the synthetic dataset used in this project.
 
 ## Project Files
 
-* `Sales_Performance_Dashboard.pbix` — Power BI dashboard file.
-* `cleaned_sales_data.csv` — cleaned dataset used for analysis.
-* `images/dashboard_preview.png` — dashboard screenshot, to be added.
+* `sales_analysis.py` — Python script for data cleaning, exploratory data analysis, sales analysis, and profitability analysis.
+* `cleaned_sales_data.csv` — cleaned dataset used for the analysis and dashboard.
+* `Sales_Performance_Dashboard.pbix` — interactive Power BI dashboard.
+* `README.md` — project overview, methodology, and key findings.
 
 ## Skills Demonstrated
 
